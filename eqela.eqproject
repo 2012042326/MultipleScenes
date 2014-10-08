@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed123
+#
+
+projectname: wed123
+vendorid: com.mycompany.wed123
+mainmodule: com.mycompany.wed123.wed123
